@@ -3,6 +3,7 @@ import App from "./App.vue";
 import router from "./router";
 import store from "./store";
 import SvgIcon from '@/components/SvgIcon.vue';
+import 'element-plus/dist/index.css'
 
 
 const app = createApp(App)
